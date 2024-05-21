@@ -1,0 +1,11 @@
+[package]
+name = "stt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+cpal = "0.15.3"
+deepspeech = "0.9.1"
+hound = "3.5.1"
+pyo3 = "0.21.2"
+wavers = "1.4.2"

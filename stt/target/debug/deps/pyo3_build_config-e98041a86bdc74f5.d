@@ -1,0 +1,14 @@
+/home/stargardts/Documents/rust/voice_register/stt/target/debug/deps/libpyo3_build_config-e98041a86bdc74f5.rmeta: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config-file.txt /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config.txt
+
+/home/stargardts/Documents/rust/voice_register/stt/target/debug/deps/libpyo3_build_config-e98041a86bdc74f5.rlib: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config-file.txt /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config.txt
+
+/home/stargardts/Documents/rust/voice_register/stt/target/debug/deps/pyo3_build_config-e98041a86bdc74f5.d: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config-file.txt /home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config.txt
+
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/lib.rs:
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/errors.rs:
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pyo3-build-config-0.21.2/src/impl_.rs:
+/home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config-file.txt:
+/home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.21.2
+# env-dep:OUT_DIR=/home/stargardts/Documents/rust/voice_register/stt/target/debug/build/pyo3-build-config-11b294ecbe7d95d6/out

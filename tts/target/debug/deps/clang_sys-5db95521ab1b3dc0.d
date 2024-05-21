@@ -1,0 +1,14 @@
+/home/stargardts/Documents/rust/voice_register/target/debug/deps/libclang_sys-5db95521ab1b3dc0.rmeta: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/macros.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/common.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/dynamic.rs
+
+/home/stargardts/Documents/rust/voice_register/target/debug/deps/libclang_sys-5db95521ab1b3dc0.rlib: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/macros.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/common.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/dynamic.rs
+
+/home/stargardts/Documents/rust/voice_register/target/debug/deps/clang_sys-5db95521ab1b3dc0.d: /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs /home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/macros.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/common.rs /home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/dynamic.rs
+
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/lib.rs:
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/support.rs:
+/home/stargardts/.cargo/registry/src/index.crates.io-6f17d22bba15001f/clang-sys-1.7.0/src/link.rs:
+/home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/macros.rs:
+/home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/common.rs:
+/home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out/dynamic.rs:
+
+# env-dep:OUT_DIR=/home/stargardts/Documents/rust/voice_register/target/debug/build/clang-sys-b2ce5317a8cc58d8/out
